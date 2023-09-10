@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "An amazing website."
-url                      : "https://kimsol.github.io"
+url                      : "https://KimSol0210.github.io"
 baseurl                  : "/blog"
 repository               : "stella's artwork"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
